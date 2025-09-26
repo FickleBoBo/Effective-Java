@@ -21,7 +21,7 @@ Deep Dive into REffective-Java
 9. try-finally보다는 try-with-resources를 사용하라 - 민우
 
 ### 3장 모든 객체의 공통 메서드 
-10. equals는 일반 규약을 지켜 재정의하라
+10. equals는 일반 규약을 지켜 재정의하라 - 민우
 11. equals를 재정의하면 hashCode도 재정의하라
 12. toString을 항상 재정의하라
 13. clone 재정의는 주의해서 진행하라
