@@ -16,14 +16,14 @@ Deep Dive into REffective-Java
 4. [인스턴스화를 막으려거든 private 생성자를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%202/item-04)
 5. [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%202/item-05)
 6. [불필요한 객체 생성을 피하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-06/%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
-7. 다 쓴 객체 참조를 해제하라 - 현재
-8. [finalizer와 cleaner 사용을 피하라 - 장우]()
-9. try-finally보다는 try-with-resources를 사용하라 - 민우
+7. [다 쓴 객체 참조를 해제하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-07/%EB%8B%A4%20%EC%93%B4%20%EA%B0%9D%EC%B2%B4%20%EC%B0%B8%EC%A1%B0%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC.md)
+8. [finalizer와 cleaner 사용을 피하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-08/finalizer%EC%99%80%20cleaner%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
+9. [try-finally보다는 try-with-resources를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%202/item-09)
 
 ### 3장 모든 객체의 공통 메서드 
-10. equals는 일반 규약을 지켜 재정의하라 - 민우
-11. [equals를 재정의하면 hashCode도 재정의하라 - 장우]()
-12. toString을 항상 재정의하라 - 현재
+10. [equals는 일반 규약을 지켜 재정의하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-10)
+11. [equals를 재정의하면 hashCode도 재정의하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-11/equals%EB%A5%BC%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
+12. [toString을 항상 재정의하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-12/toString%EC%9D%84%20%ED%95%AD%EC%83%81%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 13. clone 재정의는 주의해서 진행하라
 14. Comparable을 구현할지 고려하라
 
