@@ -354,26 +354,6 @@ public class HomeParty {
 
 이건 홈파티 클래스로 음료 준비 여부와 음료를 받아 준비 안됐으면 그냥 반환, 준비됐으면 음료를 반환하는 메서드와 음료 대신 `Supplier`를 받아 동일하게 처리하는 메서드를 오버로딩했다.
 
-```java
-public class HomeParty {
-
-    public void prepare(boolean isReady, Beverage beverage) {
-        System.out.println("HomeParty.prepare 즉시 연산");
-        if (!isReady) return;
-
-        System.out.println(beverage.getName() + " 준비 완료");
-    }
-
-    public void prepare(boolean isReady, Supplier<? extends Beverage> supplier) {
-        System.out.println("HomeParty.prepare 지연 연산");
-        if (!isReady) return;
-
-        Beverage beverage = supplier.get();
-        System.out.println(beverage.getName() + " 준비 완료");
-    }
-}
-```
-
 main에서 돌려보면 객체를 파라미터로 넘기면 객체 생성 후 메서드가 호출되는 구조로 준비 여부와 상관없이 객체를 생성하지만 `Supplier`를 대신 넘기면 메서드가 먼저 호출되고 `supplier.get()`에서 객체가 생성된다. `Optional`에서 `orElse()`랑 `orElseGet()`의 차이가 이건데 객체 생성 말고 메서드 반환 값을 넘기거나 연산 결과를 넘기는 등에서도 지연 연산을 통한 리소스 절약이 가능하다.
 
 ```java
