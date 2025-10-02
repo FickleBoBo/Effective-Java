@@ -17,12 +17,12 @@ Deep Dive into REffective-Java
 5. [자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%202/item-05)
 6. [불필요한 객체 생성을 피하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-06/%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC.md)
 7. 다 쓴 객체 참조를 해제하라
-8. finalizer와 cleaner 사용을 피하라
+8. [finalizer와 cleaner 사용을 피하라 - 장우]()
 9. try-finally보다 try-with-resources를 사용하라
 
 ### 3장 모든 객체의 공통 메서드 
 10. equals는 일반 규약을 지켜 재정의하라
-11. equals를 재정의하면 hashCode도 재정의하라
+11. [equals를 재정의하면 hashCode도 재정의하라 - 장우]()
 12. toString을 항상 재정의하라
 13. clone 재정의는 주의해서 진행하라
 14. Comparable을 구현할지 고려하라
