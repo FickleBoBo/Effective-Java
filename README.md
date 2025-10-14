@@ -6,7 +6,7 @@ Deep Dive into REffective-Java
 
 --- 
 </div>
-
+ 
 ## Items
 
 ### 2장. 객체의 생성과 파괴 
@@ -24,13 +24,13 @@ Deep Dive into REffective-Java
 10. [equals는 일반 규약을 지켜 재정의하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-10)
 11. [equals를 재정의하면 hashCode도 재정의하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%202/item-11/equals%EB%A5%BC%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
 12. [toString을 항상 재정의하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-12/toString%EC%9D%84%20%ED%95%AD%EC%83%81%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md)
-13. clone 재정의는 주의해서 진행하라
-14. [Comparable을 구현할지 고려하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-14/Comparable%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
+13. [clone 재정의는 주의해서 진행하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-13/clone%20%EC%9E%AC%EC%A0%95%EC%9D%98%EB%8A%94%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%A7%84%ED%96%89%ED%95%98%EB%9D%BC.md)
+14. [Comparable을 구현할지 고려하라- 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-14/Comparable%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 
 ### 4장 클래스와 인터페이스
-15. 클래스와 멤버의 접근 권한을 최소화하라 - [민우]
-16. public 클래스에는 public 필드 대신 접근자 메서드를 사용하라
-17. 변경 가능성을 최소화하라
+15. [클래스와 멤버의 접근 권한을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-15)
+16. [public 클래스에는 public 필드 대신 접근자 메서드를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-16/public%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94%20public%20%ED%95%84%EB%93%9C%EA%B0%80%20%EC%95%84%EB%8B%8C%20%EC%A0%91%EA%B7%BC%EC%9E%90%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md) 
+17. [변경 가능성을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-17)
 18. [상속보다는 컴포지션을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-18/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 19. 상속을 고려해 설계하고 문서화하라. 그렇지 않다면 상속을 금지하라
 20. 추상 클래스보다 인터페이스를 우선하라
