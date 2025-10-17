@@ -34,10 +34,10 @@ Deep Dive into REffective-Java
 18. [상속보다는 컴포지션을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-18/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 19. 상속을 고려해 설계하고 문서화하라. 그렇지 않았다면 상속을 금지하라 - 민우
 20. 추상 클래스보다 인터페이스를 우선하라
-21. 인터페이스는 구현하는 쪽을 생각해 설계하라
-22. 인터페이스는 타입을 정의하는 용도로만 사용하라 - 민우
+21. [인터페이스는 구현하는 쪽을 생각해 설계하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-21/인터페이스는%20구현하는%20쪽을%20생각해%20설계하라.md)
+22. 인터페이스는 타입 정의 용도로만 사용하라
 23. 태그 달린 클래스보다 클래스 계층구조를 사용하라
-24. 멤버 클래스는 되도록 static으로 만들라
+24. [멤버 클래스는 되도록 static으로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-24/멤버%20클래스는%20되도록%20static으로%20만들라.md)
 25. 톱레벨 클래스는 한 파일에 하나만 담아라
 26. raw 타입을 사용하지 말라
 
