@@ -32,11 +32,11 @@ Deep Dive into REffective-Java
 16. [public 클래스에는 public 필드 대신 접근자 메서드를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-16/public%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94%20public%20%ED%95%84%EB%93%9C%EA%B0%80%20%EC%95%84%EB%8B%8C%20%EC%A0%91%EA%B7%BC%EC%9E%90%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md) 
 17. [변경 가능성을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%204/item-17)
 18. [상속보다는 컴포지션을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-18/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
-19. 상속을 고려해 설계하고 문서화하라. 그렇지 않았다면 상속을 금지하라 - 민우
-20. 추상 클래스보다 인터페이스를 우선하라
+19. [상속을 고려해 설계하고 문서화하라. 그렇지 않았다면 상속을 금지하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-19/%EC%83%81%EC%86%8D%EC%9D%84%20%EA%B3%A0%EB%A0%A4%ED%95%B4%20%EC%84%A4%EA%B3%84%ED%95%98%EA%B3%A0%20%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%98%EB%9D%BC.%20%EA%B7%B8%EB%9F%AC%EC%A7%80%20%EC%95%8A%EC%95%98%EB%8B%A4%EB%A9%B4%20%EC%83%81%EC%86%8D%EC%9D%84%20%EA%B8%88%EC%A7%80%ED%95%B4%EB%9D%BC.md)
+20. [추상 클래스보다 인터페이스를 우선하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-20/%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%9A%B0%EC%84%A0%ED%95%98%EB%9D%BC.md)
 21. [인터페이스는 구현하는 쪽을 생각해 설계하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-21/인터페이스는%20구현하는%20쪽을%20생각해%20설계하라.md)
-22. 인터페이스는 타입 정의 용도로만 사용하라
-23. 태그 달린 클래스보다 클래스 계층구조를 사용하라
+22. [인터페이스는 타입 정의 용도로만 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-22/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94%20%EC%9A%A9%EB%8F%84%EB%A1%9C%EB%A7%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+23. [태그 달린 클래스보다 클래스 계층구조를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-23/%ED%83%9C%EA%B7%B8%20%EB%8B%AC%EB%A6%B0%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 24. [멤버 클래스는 되도록 static으로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-24/멤버%20클래스는%20되도록%20static으로%20만들라.md)
 25. 톱레벨 클래스는 한 파일에 하나만 담아라
 26. raw 타입을 사용하지 말라
