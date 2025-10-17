@@ -28,11 +28,11 @@ Deep Dive into REffective-Java
 14. [Comparable을 구현할지 고려하라- 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%203/item-14/Comparable%EC%9D%84%20%EA%B5%AC%ED%98%84%ED%95%A0%EC%A7%80%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 
 ### 4장 클래스와 인터페이스
-15. [클래스와 멤버의 접근 권한을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-15)
+15. [클래스와 멤버의 접근 권한을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%204/item-15)
 16. [public 클래스에는 public 필드 대신 접근자 메서드를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-16/public%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94%20public%20%ED%95%84%EB%93%9C%EA%B0%80%20%EC%95%84%EB%8B%8C%20%EC%A0%91%EA%B7%BC%EC%9E%90%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md) 
-17. [변경 가능성을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%203/item-17)
+17. [변경 가능성을 최소화하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/tree/main/Ch%204/item-17)
 18. [상속보다는 컴포지션을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-18/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
-19. 상속을 고려해 설계하고 문서화하라. 그렇지 않다면 상속을 금지하라
+19. 상속을 고려해 설계하고 문서화하라. 그렇지 않았다면 상속을 금지하라 - 민우
 20. 추상 클래스보다 인터페이스를 우선하라
 21. [인터페이스는 구현하는 쪽을 생각해 설계하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-21/인터페이스는%20구현하는%20쪽을%20생각해%20설계하라.md)
 22. 인터페이스는 타입 정의 용도로만 사용하라
