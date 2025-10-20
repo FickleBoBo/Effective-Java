@@ -39,9 +39,9 @@ Deep Dive into REffective-Java
 23. [태그 달린 클래스보다 클래스 계층구조를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-23/%ED%83%9C%EA%B7%B8%20%EB%8B%AC%EB%A6%B0%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 24. [멤버 클래스는 되도록 static으로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-24/멤버%20클래스는%20되도록%20static으로%20만들라.md)
 25. 톱레벨 클래스는 한 파일에 하나만 담아라
-26. raw 타입을 사용하지 말라
 
 ### 5장 제네릭
+26. 로 타입은 사용하지 말라 - 민우
 27. 비검사 경고를 제거하라
 28. 배열보다 리스트를 사용하라
 29. 이왕이면 제네릭 타입으로 만들라
