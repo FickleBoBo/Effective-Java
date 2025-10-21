@@ -41,7 +41,7 @@ Deep Dive into REffective-Java
 25. 톱레벨 클래스는 한 파일에 하나만 담아라
 
 ### 5장 제네릭
-27. [비검사 경고를 제거하라 - 현재]((https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-27/비검사%20경고를%20제거하라.md))
+27. [비검사 경고를 제거하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-27/비검사%20경고를%20제거하라.md)
 28. 배열보다 리스트를 사용하라
 29. 이왕이면 제네릭 타입으로 만들라
 30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
