@@ -38,12 +38,13 @@ Deep Dive into REffective-Java
 22. [인터페이스는 타입을 정의하는 용도로만 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-22/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A0%95%EC%9D%98%ED%95%98%EB%8A%94%20%EC%9A%A9%EB%8F%84%EB%A1%9C%EB%A7%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 23. [태그 달린 클래스보다 클래스 계층구조를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-23/%ED%83%9C%EA%B7%B8%20%EB%8B%AC%EB%A6%B0%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 24. [멤버 클래스는 되도록 static으로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-24/멤버%20클래스는%20되도록%20static으로%20만들라.md)
-25. 톱레벨 클래스는 한 파일에 하나만 담아라
+25. [톱레벨 클래스는 한 파일에 하나만 담아라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-25/%ED%86%B1%EB%A0%88%EB%B2%A8%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94%20%ED%95%9C%20%ED%8C%8C%EC%9D%BC%EC%97%90%20%ED%95%98%EB%82%98%EB%A7%8C%20%EB%8B%B4%EC%9C%BC%EB%9D%BC.md)
 
 ### 5장 제네릭
+26. [로 타입은 사용하지말라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-26/%EB%A1%9C%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md)
 27. [비검사 경고를 제거하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-27/비검사%20경고를%20제거하라.md)
-28. 배열보다 리스트를 사용하라
-29. 이왕이면 제네릭 타입으로 만들라
+28. [배열보다 리스트를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-28/%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+29. [이왕이면 제네릭 타입으로 만들라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-29/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EB%9D%BC.md) 
 30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
 31. 한정적 와일드카드로 API 유연성을 높여라
 32. 제네릭과 가변인수는 함께 쓸 때 신중하라
