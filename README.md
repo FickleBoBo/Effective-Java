@@ -41,11 +41,10 @@ Deep Dive into REffective-Java
 25. 톱레벨 클래스는 한 파일에 하나만 담아라
 
 ### 5장 제네릭
-26. 로 타입은 사용하지 말라 - 민우
-27. 비검사 경고를 제거하라
-28. 배열보다는 리스트를 사용하라 - 민우
+27. [비검사 경고를 제거하라 - 현재]((https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-27/비검사%20경고를%20제거하라.md))
+28. 배열보다 리스트를 사용하라
 29. 이왕이면 제네릭 타입으로 만들라
-30. 이왕이면 제네릭 메서드로 만들라
+30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%204/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
 31. 한정적 와일드카드로 API 유연성을 높여라
 32. 제네릭과 가변인수는 함께 쓸 때 신중하라
 33. 타입 안전 이종 컨테이너를 고려하라
