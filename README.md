@@ -48,7 +48,7 @@ Deep Dive into REffective-Java
 30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
 31. 한정적 와일드카드로 API 유연성을 높여라
 32. 제네릭과 가변인수는 함께 쓸 때 신중하라
-33. 타입 안전 이종 컨테이너를 고려하라
+33. 타입 안전 이종 컨테이너를 고려하라 - 민우
 
 ### 6장 열거 타입과 애노테이션
 34. int 상수 대신 열거 타입을 사용하라
