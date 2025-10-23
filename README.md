@@ -52,7 +52,7 @@ Deep Dive into REffective-Java
 
 ### 6장 열거 타입과 애노테이션
 34. int 상수 대신 열거 타입을 사용하라
-35. ordinal 메서드 대신 인스턴스 필드를 사용하라
+35. ordinal 메서드 대신 인스턴스 필드를 사용하라 - 민우
 36. 비트 필드 대신 EnumSet을 사용하라
 37. ordinal 인덱싱 대신 EnumMap을 사용하라
 38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
