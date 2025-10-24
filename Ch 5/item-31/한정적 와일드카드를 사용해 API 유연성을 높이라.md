@@ -99,7 +99,7 @@ public API라면 간단한 두 번째가 낫다. 어떤 리스트든 이 메서�
 
 그런데 두 번째 swap 선언에는 문제가 하나 있다. 다음과 같이 아주 직관적으로 구현한 코드가 컴파일되지 않는다는 것이다.
 ```Java
-public static void swap(List list, int i, int j) {
+public static void swap(List<?> list, int i, int j) {
     list.set(i, list.set(j, list.get(i)));
 }
 ```
@@ -108,12 +108,12 @@ public static void swap(List list, int i, int j) {
 
 해결책은 와일드카드 타입의 실제 타입을 알려주는 메서드를 private 핼퍼 메서드로 따로 작성하여 활용하는 것이다. 실제 타입을 알아내려면 이 헬퍼 메서드는 제네릭 메서드여야 한다.
 ```Java
-public static void swap(List list, int i, int j) {
+public static void swap(List<?> list, int i, int j) {
     swapHelper(list, i, j);
 }
 
 // 와일드카드 타입을 실제 타입으로 바꿔주는 private 헬퍼 메서드
-private static  void swapHelper(List list, int i, int j) {
+private static <E> void swapHelper(List<E> list, int i, int j) {
     list.set(i, list.set(j, list.get(i)));
 }
 ```
