@@ -46,13 +46,13 @@ Deep Dive into REffective-Java
 28. [배열보다 리스트를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-28/%EB%B0%B0%EC%97%B4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 29. [이왕이면 제네릭 타입으로 만들라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-29/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EB%9D%BC.md) 
 30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
-31. 한정적 와일드카드로 API 유연성을 높여라
+31. [한정적 와일드카드로 API 유연성을 높여라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-31/%ED%95%9C%EC%A0%95%EC%A0%81%20%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%20API%20%EC%9C%A0%EC%97%B0%EC%84%B1%EC%9D%84%20%EB%86%92%EC%9D%B4%EB%9D%BC.md)
 32. [제네릭과 가변인수는 함께 쓸 때 신중하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-32/제네릭과%20가변인수를%20함께%20쓸%20때는%20신중하라.md)
-33. 타입 안전 이종 컨테이너를 고려하라
+33. [타입 안전 이종 컨테이너를 고려하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-33/%ED%83%80%EC%9E%85%20%EC%95%88%EC%A0%84%20%EC%9D%B4%EC%A2%85%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 
 ### 6장 열거 타입과 애노테이션
-34. int 상수 대신 열거 타입을 사용하라
-35. ordinal 메서드 대신 인스턴스 필드를 사용하라
+34. [int 상수 대신 열거 타입을 사용하라 - 장우]()
+35. [ordinal 메서드 대신 인스턴스 필드를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/%EB%B9%84%ED%8A%B8%20%ED%95%84%EB%93%9C%20%EB%8C%80%EC%8B%A0%20EnumSet%20%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 36. [비트 필드 대신 EnumSet을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/비트%20필드%20대신%20EnumSet%20을%20사용하라.md)
 37. ordinal 인덱싱 대신 EnumMap을 사용하라
 38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
