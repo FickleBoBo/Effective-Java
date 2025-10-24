@@ -47,13 +47,13 @@ Deep Dive into REffective-Java
 29. [이왕이면 제네릭 타입으로 만들라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-29/%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EB%9D%BC.md) 
 30. [이왕이면 제네릭 메서드로 만들라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-30/이왕이면%20제네릭%20메서드로%20만들라.md)
 31. 한정적 와일드카드로 API 유연성을 높여라
-32. 제네릭과 가변인수는 함께 쓸 때 신중하라
-33. 타입 안전 이종 컨테이너를 고려하라 - 민우
+32. [제네릭과 가변인수는 함께 쓸 때 신중하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-32/제네릭과%20가변인수를%20함께%20쓸%20때는%20신중하라.md)
+33. 타입 안전 이종 컨테이너를 고려하라
 
 ### 6장 열거 타입과 애노테이션
 34. int 상수 대신 열거 타입을 사용하라
-35. ordinal 메서드 대신 인스턴스 필드를 사용하라 - 민우
-36. 비트 필드 대신 EnumSet을 사용하라
+35. ordinal 메서드 대신 인스턴스 필드를 사용하라
+36. [비트 필드 대신 EnumSet을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/비트%20필드%20대신%20EnumSet%20을%20사용하라.md)
 37. ordinal 인덱싱 대신 EnumMap을 사용하라
 38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
 39. 명명 패턴보다 애노테이션을 사용하라
