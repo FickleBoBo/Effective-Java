@@ -56,12 +56,12 @@ Deep Dive into REffective-Java
 36. [비트 필드 대신 EnumSet을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/비트%20필드%20대신%20EnumSet%20을%20사용하라.md)
 37. ordinal 인덱싱 대신 EnumMap을 사용하라
 38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
-39. 명명 패턴보다 애노테이션을 사용하라
+39. [명명 패턴보다 애노테이션을 사용하라 -현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-39/명명%20패턴보다%20애너테이션을%20사용하라.md)
 40. @Override 애노테이션을 일관되게 사용하라
 41. 정의하려는 것이 타입이면 마커 인터페이스를 사용하라
 
 ### 7장 람다와 스트림
-42. 익명 클래스보다 람다를 사용하라
+42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
 43. 람다보다 메서드 참조를 사용하라
 44. 표준 함수형 인터페이스를 사용하라
 45. 스트림은 주의해서 사용하라
