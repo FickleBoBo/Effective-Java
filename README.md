@@ -55,7 +55,7 @@ Deep Dive into REffective-Java
 35. [ordinal 메서드 대신 인스턴스 필드를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/%EB%B9%84%ED%8A%B8%20%ED%95%84%EB%93%9C%20%EB%8C%80%EC%8B%A0%20EnumSet%20%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 36. [비트 필드 대신 EnumSet을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/비트%20필드%20대신%20EnumSet%20을%20사용하라.md)
 37. ordinal 인덱싱 대신 EnumMap을 사용하라
-38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
+38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 - 민우
 39. 명명 패턴보다 애노테이션을 사용하라
 40. @Override 애노테이션을 일관되게 사용하라
 41. 정의하려는 것이 타입이면 마커 인터페이스를 사용하라
