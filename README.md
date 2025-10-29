@@ -51,14 +51,14 @@ Deep Dive into REffective-Java
 33. [타입 안전 이종 컨테이너를 고려하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%205/item-33/%ED%83%80%EC%9E%85%20%EC%95%88%EC%A0%84%20%EC%9D%B4%EC%A2%85%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%A5%BC%20%EA%B3%A0%EB%A0%A4%ED%95%98%EB%9D%BC.md)
 
 ### 6장 열거 타입과 애노테이션
-34. [int 상수 대신 열거 타입을 사용하라 - 장우]()
+34. [int 상수 대신 열거 타입을 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-34/int%20%EC%83%81%EC%88%98%20%EB%8C%80%EC%8B%A0%20%EC%97%B4%EA%B1%B0%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 35. [ordinal 메서드 대신 인스턴스 필드를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/%EB%B9%84%ED%8A%B8%20%ED%95%84%EB%93%9C%20%EB%8C%80%EC%8B%A0%20EnumSet%20%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 36. [비트 필드 대신 EnumSet을 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-36/비트%20필드%20대신%20EnumSet%20을%20사용하라.md)
-37. ordinal 인덱싱 대신 EnumMap을 사용하라
-38. 확장 가능한 열거 타입이 필요하면 인터페이스를 사용하라
+37. [ordinal 인덱싱 대신 EnumMap을 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-37/ordinal%20%EC%9D%B8%EB%8D%B1%EC%8B%B1%20%EB%8C%80%EC%8B%A0%20EnumMap%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+38. [확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-38/%ED%99%95%EC%9E%A5%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%97%B4%EA%B1%B0%20%ED%83%80%EC%9E%85%EC%9D%B4%20%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B4%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 39. [명명 패턴보다 애노테이션을 사용하라 -현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-39/명명%20패턴보다%20애너테이션을%20사용하라.md)
-40. @Override 애노테이션을 일관되게 사용하라
-41. 정의하려는 것이 타입이면 마커 인터페이스를 사용하라
+40. [@Override 애너테이션을 일관되게 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-40/%40Override%20%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%BC%EA%B4%80%EB%90%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+41. [정의하려는 것이 타입이면 마커 인터페이스를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-41/%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4%20%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4%20%EB%A7%88%EC%BB%A4%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
 ### 7장 람다와 스트림
 42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
