@@ -63,11 +63,11 @@ Deep Dive into REffective-Java
 ### 7장 람다와 스트림
 42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
 43. [람다보다 메서드 참조를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-43/람다보다%20메서드%20참조를%20사용하라.md)
-44. 표준 함수형 인터페이스를 사용하라
-45. 스트림은 주의해서 사용하라
+44. [표준 함수형 인터페이스를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-44/%ED%91%9C%EC%A4%80%20%ED%95%A8%EC%88%98%ED%98%95%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
+45. [스트림은 주의해서 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-45/%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%80%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 46. [스트림에서는 부작용 없는 함수를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-46/스트림에서는%20부작용%20없는%20함수를%20사용하라.md)
-47. 반환 타입으로는 스트림보다 컬렉션이 낫다
-48. 스트림 병렬화는 주의해서 적용하라
+47. [반환 타입으로는 스트림보다 컬렉션이 낫다 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-47/%EB%B0%98%ED%99%98%20%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C%EB%8A%94%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%EB%B3%B4%EB%8B%A4%20%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%20%EB%82%AB%EB%8B%A4.md)
+48. [스트림 병렬화는 주의해서 적용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-48/%EC%8A%A4%ED%8A%B8%EB%A6%BC%20%EB%B3%91%EB%A0%AC%ED%99%94%EB%8A%94%20%EC%A3%BC%EC%9D%98%ED%95%B4%EC%84%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
 ### 8장 메서드
 49. 매개변수 유효성을 검사하라
