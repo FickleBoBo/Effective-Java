@@ -60,13 +60,12 @@ Deep Dive into REffective-Java
 40. [@Override 애너테이션을 일관되게 사용하라 - 민우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-40/%40Override%20%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98%EC%9D%84%20%EC%9D%BC%EA%B4%80%EB%90%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 41. [정의하려는 것이 타입이면 마커 인터페이스를 사용하라 - 장우](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%206/item-41/%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EB%8A%94%20%EA%B2%83%EC%9D%B4%20%ED%83%80%EC%9E%85%EC%9D%B4%EB%9D%BC%EB%A9%B4%20%EB%A7%88%EC%BB%A4%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
-
 ### 7장 람다와 스트림
 42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
-43. 람다보다 메서드 참조를 사용하라
+43. [람다보다 메서드 참조를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-43/람다보다%20메서드%20참조를%20사용하라.md)
 44. 표준 함수형 인터페이스를 사용하라
 45. 스트림은 주의해서 사용하라
-46. 스트림에서는 부작용 없는 함수를 사용하라
+46. [스트림에서는 부작용 없는 함수를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-46/스트림에서는%20부작용%20없는%20함수를%20사용하라.md)
 47. 반환 타입으로는 스트림보다 컬렉션이 낫다
 48. 스트림 병렬화는 주의해서 적용하라
 
