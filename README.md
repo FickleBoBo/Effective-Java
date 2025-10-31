@@ -62,10 +62,10 @@ Deep Dive into REffective-Java
 
 ### 7장 람다와 스트림
 42. [익명 클래스보다 람다를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-42/익명%20클래스보다는%20람다를%20사용하라.md)
-43. 람다보다 메서드 참조를 사용하라
+43. [람다보다 메서드 참조를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-43/람다보다%20메서드%20참조를%20사용하라.md)
 44. 표준 함수형 인터페이스를 사용하라
 45. 스트림은 주의해서 사용하라
-46. 스트림에서는 부작용 없는 함수를 사용하라
+46. [스트림에서는 부작용 없는 함수를 사용하라 - 현재](https://github.com/BackEndDeepDive/Effective-Java/blob/main/Ch%207/item-46/스트림에서는%20부작용%20없는%20함수를%20사용하라.md)
 47. 반환 타입으로는 스트림보다 컬렉션이 낫다
 48. 스트림 병렬화는 주의해서 적용하라
 
